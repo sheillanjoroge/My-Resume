@@ -9,7 +9,7 @@ In progress
 ## Known Bugs
 None at the moment, will post if any.
 ## Technologies Used
-HTML and CSS...will add JS for more interaction later
+HTML and CSS..will add JS for more interaction later
 ## Support and contact details
 For any contribution contact sheillan.njoroge@gmail.com
 ### License
