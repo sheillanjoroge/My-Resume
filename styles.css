@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+    margin-left: 10%;
+    margin-right: 20%;
+    font-size: 18px;
+    background-image: url("https://i.pinimg.com/originals/f9/f7/1c/f9f71ca27560524f8c9786f431501e34.png");
+    background-repeat: no-repeat;
+    border-radius: 2px solid;
+
+
+}
+    /* }
+#name{
+    float: left; */
+
+.career{
+    border-top: 2px solid black;
+}
+.experience{
+    border-bottom: 2px solid black;
+    padding-bottom: 2%;
+}
+footer.li{
+    padding: 2%;
+}
